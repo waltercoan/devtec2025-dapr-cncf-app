@@ -1,0 +1,24 @@
+### App A GET
+GET http://localhost:8080/api
+
+### App B GET
+GET http://localhost:8081/api
+
+
+### App A POST /startsync
+POST http://localhost:8080/api/startsync
+
+### App A POST /startasync
+POST http://localhost:8080/api/startasync
+
+### App A POST /state
+POST http://localhost:8080/api/state/naoacredito
+
+### App A GET /state
+GET http://localhost:8080/api/state
+
+### App B POST /state
+POST http://localhost:8081/api/state/naoacredito1
+
+### App B GET /state
+GET http://localhost:8081/api/state
