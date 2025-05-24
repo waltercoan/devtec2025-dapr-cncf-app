@@ -6,6 +6,19 @@ Apresentação realizada 22/05/2025 no evento devTEC 2025 em Tubarão Santa Cata
 
 [![My Skills](https://skillicons.dev/icons?i=azure,java,spring,docker,git,linux)](https://skillicons.dev)
 
+## Evento
+
+[Download Slides](./diagramas/devtec2025-construindoappcloudnativecomDapr.pdf)
+
+### Gravação do Workshop no Youtube
+[![Gravação](https://img.youtube.com/vi/Wb-5k_BSwmQ/0.jpg)](https://www.youtube.com/watch?v=Wb-5k_BSwmQ)
+
+### Fotos
+|  |  |
+| -------- | ------- |
+| ![Foto1](./imgs/img1.jpg) |  |
+
+
 ## Configuração do ambiente
 
 - [Instalar o Docker] (https://docs.docker.com/engine/install/)
